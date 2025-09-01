@@ -1,6 +1,27 @@
 # Web Application Development Classes
 
-Sessions will include lecture material & coding challenges. We provide base content for you to use in your learning.
+## FORKED
+
+### From your local clone of your fork
+
+`git remote -v`
+
+### If upstream isn’t set yet
+
+`git remote add upstream https://github.com/ORIGINAL_OWNER/REPO.git`
+
+### Get latest from the original repo
+
+`git fetch upstream`
+
+### Update your local default branch (main or master)
+
+`git checkout main`
+`git pull --rebase upstream main   # or: git merge upstream/main`
+
+### Update your fork on GitHub
+
+`git push origin main`
 
 ## Setting Up Your Code Environment
 
