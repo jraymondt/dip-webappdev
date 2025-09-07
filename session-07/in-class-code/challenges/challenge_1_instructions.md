@@ -23,6 +23,8 @@ This will create a `package.json` file with default settings.
 
 **Delete the type in the package.json - this causes the compiler problems**
 
+** make a .gitignore *node_modules/* **
+
 ### 3. **Install React and ReactDOM**
 
 Install React and ReactDOM as dependencies:
