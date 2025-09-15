@@ -8,7 +8,7 @@
 
 ### If upstream isn’t set yet
 
-`git remote add upstream https://github.com/ORIGINAL_OWNER/REPO.git`
+`git remote add upstream https://github.com/NM-TAFE/dip-web-application-development-classes.git`
 
 ### Get latest from the original repo
 
